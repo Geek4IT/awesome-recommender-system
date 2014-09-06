@@ -14,6 +14,8 @@ A curated list of awesome Recommender System frameworks, libraries and software.
 
 # Framework
 
+* [Crab](http://muricoca.github.io/crab/)
+
 # Tutorials
 
 * [Explore software for building a recommendation capability](http://www.ibm.com/developerworks/library/os-recommender2/)
