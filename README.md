@@ -11,6 +11,7 @@ A curated list of awesome Recommender System frameworks, libraries and software.
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com/)
 * [推荐系统实践](http://www.amazon.cn/dp/B008AK5YJO)
 
+
 # Framework
 
 * [Crab](http://muricoca.github.io/crab/)
@@ -19,6 +20,7 @@ A curated list of awesome Recommender System frameworks, libraries and software.
 
 * [Explore software for building a recommendation capability](http://www.ibm.com/developerworks/library/os-recommender2/)
 * [Building a Recommendation System in Python](http://nbviewer.ipython.org/gist/glamp/20a18d52c539b87de2af) 
+* [探索推荐引擎内部的秘密](http://www.ibm.com/developerworks/cn/web/1103_zhaoct_recommstudy1/index.html)
 
 # Paper
 
