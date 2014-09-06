@@ -1,6 +1,5 @@
 A curated list of awesome Recommender System frameworks, libraries and software. Inspired by [awesome-php](https://github.com/vinta/awesome-python).
 
-- [Awesome Recommender System]
 - [Book](#book)
 - [Framework](#framework)
 - [Tutorial](#tutorial)
