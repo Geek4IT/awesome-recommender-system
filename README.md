@@ -2,6 +2,7 @@ A curated list of awesome Recommender System frameworks, libraries and software.
 
 - [Book](#book)
 - [Framework](#framework)
+- [Api](#api)
 - [Tutorial](#tutorial)
 - [Paper](#paper)
 - [Video](#video)
@@ -15,6 +16,10 @@ A curated list of awesome Recommender System frameworks, libraries and software.
 # Framework
 
 * [Crab](http://muricoca.github.io/crab/)
+
+# Api
+
+* [Recommendations API](https://developer.bestbuy.com/documentation/recommendations-api)
 
 # Tutorial
 
