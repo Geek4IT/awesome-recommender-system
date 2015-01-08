@@ -27,6 +27,7 @@ A curated list of awesome Recommender System frameworks, libraries and software.
 * [Explore software for building a recommendation capability](http://www.ibm.com/developerworks/library/os-recommender2/)
 * [Building a Recommendation System in Python](http://nbviewer.ipython.org/gist/glamp/20a18d52c539b87de2af) 
 * [探索推荐引擎内部的秘密](http://www.ibm.com/developerworks/cn/web/1103_zhaoct_recommstudy1/index.html)
+* [Building a Recommendation Engine](http://blog.assembly.com/Building-a-Recommendation-Engine/)
 
 # Paper
 
