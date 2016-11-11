@@ -17,6 +17,7 @@ A curated list of awesome Recommender System frameworks, libraries and software.
 # Framework
 
 * [Crab](http://muricoca.github.io/crab/)
+* [hybrid-rs-trainner](https://github.com/SeniorSA/hybrid-rs-trainner)
 
 # Api
 
